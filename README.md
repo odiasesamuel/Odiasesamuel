@@ -40,7 +40,6 @@ I am a Front-End Developer &nbsp; &nbsp; <img src="https://media.giphy.com/media
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiasesamuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 
 <!---

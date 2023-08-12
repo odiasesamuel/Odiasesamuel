@@ -12,7 +12,7 @@
 
 ## About Me :
 
-I am a Front-End Developer &nbsp; &nbsp; <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="90">
+I am a Front-End Engineer &nbsp; &nbsp; <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="90">
 
 - 😎 I’m working as a Software Engineer and contributing to Front-End for building web applications.
 - 📝 Exploring Technical Content Writing.

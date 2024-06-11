@@ -36,13 +36,15 @@ I am a Front-End Engineer &nbsp; &nbsp; <img src="https://media.giphy.com/media/
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Antdesign" alt="Antdesign " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" **alt="Cypress" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiasesamuel&layout=compact&theme=vision-friendly-dark)](https://github.com/Odiasesamuel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiasesamuel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

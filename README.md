@@ -42,8 +42,6 @@ I am a Front-End Engineer &nbsp; &nbsp; <img src="https://media.giphy.com/media/
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Odiasesamuel&theme=dark&background=24356)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiasesamuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 

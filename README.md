@@ -44,7 +44,7 @@ I am a Front-End Engineer &nbsp; &nbsp; <img src="https://media.giphy.com/media/
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiasesamuel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiasesamuel&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

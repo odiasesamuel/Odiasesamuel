@@ -14,7 +14,7 @@
 
 I am a Software Engineer &nbsp; &nbsp; <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="90">
 
-- 😎 I’m working as a Software Engineer, contributing to both Front-End and Back-End development for building full-stack web applications.
+- 😎 I’m working as a Software Engineer, contributing to both Front-End and Back-End development.
 - 🔍 Exploring and implementing automated testing to improve software quality and reliability.
 - 📝 Sharing knowledge through Technical Content Writing, focusing on software development and testing best practices.
 - ⚡ In my free time, I solve problems on platforms like GeeksforGeeks, work on personal projects, and read tech articles.
